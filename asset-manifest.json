@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/https//:wiramv.github.io/static/css/main.57eec9e5.css",
+    "main.js": "/https//:wiramv.github.io/static/js/main.d50578e6.js",
+    "static/js/787.9578b72c.chunk.js": "/https//:wiramv.github.io/static/js/787.9578b72c.chunk.js",
+    "static/media/bg.jpg": "/https//:wiramv.github.io/static/media/bg.7a02f24dcf224c96353a.jpg",
+    "static/media/Krida.png": "/https//:wiramv.github.io/static/media/Krida.1c4b6e804cb660175e4a.png",
+    "static/media/Unpad.png": "/https//:wiramv.github.io/static/media/Unpad.0ed2c2edf870626ba047.png",
+    "static/media/pp.png": "/https//:wiramv.github.io/static/media/pp.1a0514b6ef697ad13fab.png",
+    "static/media/Acc.png": "/https//:wiramv.github.io/static/media/Acc.a89dfcf166e92c83c7aa.png",
+    "static/media/Time.png": "/https//:wiramv.github.io/static/media/Time.48a551f41263e4ea64ac.png",
+    "static/media/Clients.png": "/https//:wiramv.github.io/static/media/Clients.3e36224230db374e7240.png",
+    "static/media/timeManagement.png": "/https//:wiramv.github.io/static/media/timeManagement.abffcb981b88c63f2b81.png",
+    "static/media/fastLearner.png": "/https//:wiramv.github.io/static/media/fastLearner.4e520241d86c7eface4c.png",
+    "static/media/teamWorks.png": "/https//:wiramv.github.io/static/media/teamWorks.b0aab5a61cf9f12ff4cd.png",
+    "static/media/up.png": "/https//:wiramv.github.io/static/media/up.34021ea44b90240d8be9.png",
+    "static/media/adaptable.png": "/https//:wiramv.github.io/static/media/adaptable.c981b04b5f7e30b69910.png",
+    "static/media/bilingual.png": "/https//:wiramv.github.io/static/media/bilingual.22554bbdeea991a7c11b.png",
+    "static/media/cuaca.png": "/https//:wiramv.github.io/static/media/cuaca.2437d5b2391a3f7f1086.png",
+    "static/media/Finance-tracker.png": "/https//:wiramv.github.io/static/media/Finance-tracker.34e6cbefca04619c3237.png",
+    "static/media/leadership.png": "/https//:wiramv.github.io/static/media/leadership.aba2e726c2ac092fdb31.png",
+    "static/media/Name-generator.png": "/https//:wiramv.github.io/static/media/Name-generator.6a09ed9d708b315ea7c1.png",
+    "index.html": "/https//:wiramv.github.io/index.html",
+    "main.57eec9e5.css.map": "/https//:wiramv.github.io/static/css/main.57eec9e5.css.map",
+    "main.d50578e6.js.map": "/https//:wiramv.github.io/static/js/main.d50578e6.js.map",
+    "787.9578b72c.chunk.js.map": "/https//:wiramv.github.io/static/js/787.9578b72c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57eec9e5.css",
+    "static/js/main.d50578e6.js"
+  ]
+}
